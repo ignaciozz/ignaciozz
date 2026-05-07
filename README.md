@@ -1,8 +1,8 @@
 # 👨‍💻 Full Stack Developer at Starmeta IA
 
-📚 Currently studying Systems Analysis and Development at FIAP.  
+📚 Student of Systems Analysis and Development at FIAP.
 
-Currently working on AI-first solutions focused on process automation, intelligent systems, and software development.  
+Currently working on a AI-first Startup, creating solutions focused on process automation, intelligent systems, and software development.  
 Interested in Artificial Intelligence, Machine Learning, LLMs, NLP, Database Systems, software engineering, and modern product design.
 
 📫 Contact: bielpolese@hotmail.com
